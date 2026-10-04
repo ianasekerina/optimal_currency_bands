@@ -3,7 +3,9 @@
 Replication code and thesis text for **"Optimal Currency Bands"**.
 
 **Author:** Iana Sekerina
+
 **Supervisor:** Prof. Francesco Lippi
+
 **Department:** Economics and Finance, LUISS Guido Carli, Rome, 2026
 
 ---
