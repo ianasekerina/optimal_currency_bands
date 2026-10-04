@@ -18,8 +18,8 @@ The model is calibrated to daily Italian lira data from the ERM I period, spanni
 
 | File | Description |
 |---|---|
-| `OptimalBands.m` | MATLAB replication script. Reproduces all figures and calibration results (Tables 3–4, Figures 1–14). |
-| `thesis.pdf` | Full thesis text (theory, proofs, empirical application, appendix). |
+| `OptimalBands_Code.m` | MATLAB replication script. Reproduces all figures and calibration results (Tables 3–4, Figures 1–14). |
+| `OptimalCurrencyBands_Oct26.pdf` | Full thesis text (theory, proofs, empirical application, appendix). |
 | `ert_h_eur_d__custom_19839545_linear.csv` | ECB daily ITL/ECU exchange rate data (main file, not included — see Data below). |
 | `ert_h_eur_d__custom_19839614_linear.csv` | ECB daily ITL/ECU exchange rate data (supplementary tail, not included — see Data below). |
 
