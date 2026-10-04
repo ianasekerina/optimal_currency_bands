@@ -34,7 +34,7 @@ The model is calibrated to daily Italian lira data from the ERM I period, spanni
 
 The two required ECB Statistical Data Warehouse CSV exports (daily ITL/ECU exchange rate, columns G:H) are not redistributed in this repository. To reproduce the results:
 
-1. Download the daily ITL/ECU series from the [ECB Statistical Data Warehouse](https://sdw.ecb.europa.eu/).
+1. Download the daily ITL/ECU series from the [Eurostat: Former euro area national currencies vs. euro/ECU - daily data](https://doi.org/10.2908/ERT_H_EUR_D).
 2. Place both CSV files in a single folder.
 3. Update `DATA_DIR` near the top of `OptimalBands.m` to point to that folder.
 
